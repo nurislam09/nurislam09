@@ -1,5 +1,5 @@
 
-# Привет, меня зовут Арген!
+# Привет, меня зовут Нурислам!
 
 ---
 
@@ -13,7 +13,7 @@
 
 - ⚡️ Хочу скорее найти работу!
 
-- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-abdymomunov999-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/abdymomunov999) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:abdymomunovargen6@gmail.com)
+- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-abdymomunov999-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ysmai_lov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nurislam12@gmail.com)
 
 ---
 
@@ -23,16 +23,16 @@
     <a href="https://www.linkedin.com/in/argen-abdymomunov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/abdymomunov999" target="_blank">
+    <a href="https://t.me/Ysmai_lov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://vk.com/id546846507" target="_blank">
+    <a href="https://vk.com/id741213005" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="https://instagram.com/argenabdymomunov_?igshid=YmJhNjkzNzY=" target="_blank">
+    <a href="https://www.instagram.com/ysmai_lov/" target="_blank">
       <img src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png" width="40" height="40" alt="Instagram"/>
     </a>
-    <a href="https://fb.com/https://www.facebook.com/profile.php?id=100035212073552" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=100091454300100&mibextid=ZbWKwL" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
            height="40" width="40" alt="https://www.facebook.com/profile.php?id=100035212073552"/>
   </a>
