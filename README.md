@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 18 от Peaksoft, где я проходил обучение. После обучения я осознал что мне нравится web разработка именно back-end части. В детстве всегда задавался вопросом, "Как эти сайты работают под копотом?". Из интереса решил испытать себя "Смогу ли я так же что то разработать?". И я нашел ответ, "Да, я смогу!". В апреле 2023 года я закончил курсы на языке java и сейчас активно ищу работу. Пока не найду, участвую на разных проектах чтобы не потерять свои полученные знания.   
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 16 от Peaksoft, где я проходил обучение. После обучения я осознал что мне нравится web разработка именно back-end части. В детстве всегда задавался вопросом, "Как эти сайты работают и как эти сайты создаются?". Из интереса решил испытать себя "Смогу ли я справится с разработкой какого либо приложения или сайта?". И я нашел ответ, "Да, я смогу!". В апреле 2023 года я закончил курсы на языке java и сейчас активно ищу работу. Участвую на разных проектах чтобы не потерять свои полученные знания и чтобы научится что то новому.   
 
 - 🔭 Изучаю веб-разработку на сайте Course Hunter!
 
@@ -63,3 +63,19 @@
 ---
 
 ### 🛠 Инструменты:
+
+<div>
+  <p align="left"> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>
+ </p>
+</div>
