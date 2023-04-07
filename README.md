@@ -13,7 +13,7 @@
 
 - ⚡️ Хочу скорее найти работу!
 
-- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-abdymomunov999-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ysmai_lov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nurislam12@gmail.com)
+- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Nuris-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ysmai_lov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nurislam12@gmail.com)
 
 ---
 
